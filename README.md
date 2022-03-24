@@ -18,7 +18,7 @@
 
 ## Step 5: Move script to /bin/usr/
 
-> mv upload-to-drive/drive /bin/usr/
+> sudo mv upload-to-drive/drive /bin/usr/
 
 ## Step 6: Use the command to upload files
 
