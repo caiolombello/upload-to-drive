@@ -16,9 +16,9 @@
 
 > git clone https://github.com/caiolombello/upload-to-drive.git 
 
-## Step 5: Move script to /bin/usr/
+## Step 5: Move script to /usr/bin
 
-> sudo mv upload-to-drive/drive /bin/usr/
+> sudo mv upload-to-drive/drive /usr/bin
 
 ## Step 6: Use the command to upload files
 
