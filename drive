@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo 'What you want to upload in Google Drive?'
+read TARGET 
+
+gdrive upload $(pwd)/$TARGET
