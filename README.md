@@ -2,25 +2,14 @@
 
 ## [Step 1: Download gdrive (Google Drive CLI Client)](https://github.com/prasmussen/gdrive)
 
-> wget https://github.com/prasmussen/gdrive/releases/download/2.1.1/gdrive_2.1.1_linux_386.tar.gz
+> git clone https://github.com/caiolombello/upload-to-drive.git <br>
+> ./install
 
-## Step 2: Unzip the Archive
+## Step 2: Perform Authentication
 
-> tar -xvf gdrive_2.1.1_linux_386.tar.gz
+> gdrive about
 
-## Step 3: Perform Authentication
-
-> ./gdrive about
-
-## Step 4: Clone the repository
-
-> git clone https://github.com/caiolombello/upload-to-drive.git 
-
-## Step 5: Move script to /usr/bin
-
-> sudo mv upload-to-drive/drive /usr/bin
-
-## Step 6: Use the command to upload files
+## How to use
 
 To upload an file
 > $ drive <br>
@@ -29,3 +18,6 @@ To upload an file
 To upload an entire directory
 > $ drive <br>
 > $ \<dir> --recursive
+
+To more information
+> $ gdrive help
