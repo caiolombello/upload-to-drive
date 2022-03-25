@@ -6,8 +6,8 @@ tar -xvf gdrive_2.1.1_linux_386.tar.gz
 
 rm gdrive_2.1.1_linux_386.tar.gz
 
+chmod +x drive
+
 sudo mv gdrive /usr/bin/
 
 sudo mv drive /usr/bin/
-
-
