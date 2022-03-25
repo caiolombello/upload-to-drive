@@ -11,11 +11,11 @@
 
 ## How to use
 
-To upload an file
+To upload file
 > $ drive <br>
 > $ \<file>
 
-To upload an entire directory
+To upload entire directory
 > $ drive <br>
 > $ \<dir> --recursive
 
