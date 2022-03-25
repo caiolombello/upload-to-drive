@@ -2,12 +2,12 @@
 
 ## [Step 1: Download gdrive (Google Drive CLI Client)](https://github.com/prasmussen/gdrive)
 
-> git clone https://github.com/caiolombello/upload-to-drive.git <br>
-> ./install
+> $ git clone https://github.com/caiolombello/upload-to-drive.git <br>
+> $ ./install
 
 ## Step 2: Perform Authentication
 
-> gdrive about
+> $ gdrive about
 
 ## How to use
 
