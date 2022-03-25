@@ -23,7 +23,9 @@
 ## Step 6: Use the command to upload files
 
 To upload an file
-> drive \<file>
+> $ drive 
+> $ \<file>
 
 To upload an entire directory
-> drive \<dir> --recursive
+> $ drive 
+> $ \<dir> --recursive
